@@ -13,7 +13,7 @@ const About = () => {
         {/* Photographer Image */}
         <div className="flex justify-center">
           <img
-            src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=700&q=80"
+            src="C:\Users\HP\Downloads\Web Development\AK Visuals\ak-visuals-frontend\public\images\Kashyap"
             alt="Photographer"
             className="rounded-2xl shadow-lg shadow-yellow-500/20 hover:shadow-yellow-500/40 transition duration-300 w-80 md:w-full object-cover"
           />
